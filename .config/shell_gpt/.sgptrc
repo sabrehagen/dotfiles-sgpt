@@ -14,3 +14,7 @@ USE_LITELLM=false
 SHELL_INTERACTION=true
 OS_NAME=auto
 SHELL_NAME=auto
+CHAT_CACHE_PATH=/tmp/chat_cache
+CACHE_PATH=/tmp/cache
+ROLE_STORAGE_PATH=/tmp/shell_gpt_roles
+OPENAI_FUNCTIONS_PATH=/tmp/shell_gpt_functions
